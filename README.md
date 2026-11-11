@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=180&section=header&text=Hi,%20I'm%20Orpyta%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5B6CF0&center=true&vCenter=true&width=600&lines=CSE+Student+%40+AIUB;Machine+Learning+Enthusiast;Data+Science+%26+Software+Development;Two-Time+Dean%27s+Award+Recipient" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5B6CF0&center=true&vCenter=true&width=600&lines=CSE+Student+%40+AIUB;Machine+Learning+Enthusiast;Data+Science+%26+Software+Development;Information+Systems+Major" alt="Typing SVG" />
 
 </div>
 
